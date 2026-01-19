@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ashley Roshan! 📊
 
-<!--
-**AshleyRoshan/AshleyRoshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Business Analytics Student
+I bridge the gap between complex data and strategic business decisions. I enjoy turning raw data into actionable insights through storytelling and visualization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Analytics Toolkit
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R
+* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+* **Business Tools:** Advanced Excel (VLOOKUP, Pivot Tables), Google Analytics
+* **Methodologies:** A/B Testing, Regression Analysis, Predictive Modeling, Data Cleaning
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** https://www.linkedin.com/in/ashleyroshan/
+* **Email:** ashleyroshan97@gmail.com
