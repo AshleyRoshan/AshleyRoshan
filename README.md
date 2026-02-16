@@ -1,7 +1,7 @@
 # Hi, I'm Ashley Roshan! 📊
 
 ### 🎓 Business Analytics Student
-I bridge the gap between complex data and strategic business decisions. I enjoy turning raw data into actionable insights through storytelling and visualization.
+Analytical and results-oriented Professional with over 8 years of experience in healthcare operations and business informatics. Proven expertise in Business Analysis, Process Optimization, and Stakeholder Management. Adept at performing Root Cause Analysis (RCA), managing complex KPIs, and translating client requirements into actionable operational strategies. Currently pursuing a Master of Business Informatics to further specialize in data-driven decision-making within the New Zealand market.
 
 ---
 
