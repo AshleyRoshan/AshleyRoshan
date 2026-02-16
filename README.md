@@ -6,10 +6,15 @@ Analytical and results-oriented Professional with over 8 years of experience in 
 ---
 
 ### 🛠 My Analytics Toolkit
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R
-* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-* **Business Tools:** Advanced Excel (VLOOKUP, Pivot Tables), Google Analytics
-* **Methodologies:** A/B Testing, Regression Analysis, Predictive Modeling, Data Cleaning
+**Analysis**: Root Cause Analysis (RCA), Gap Analysis, Trend Mapping, Data Validation.
+
+**Stakeholder Management**: Requirements Gathering, Feedback Loops, Client Relationship Management.
+
+**Operational Excellence**: Process Improvement, SLA Delivery, Workflow Optimization, Change Management.
+
+**Reporting**: Weekly Business Reviews (WBR), KPI Tracking, Data Visualization (Excel/PowerPoint).
+
+**Compliance**: Regulatory Auditing, Quality Assurance, Risk Mitigation, US Healthcare RCM.
 
 ---
 
